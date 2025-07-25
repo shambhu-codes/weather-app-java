@@ -17,18 +17,18 @@ A weather web application using Java Servlets, JSP, and OpenWeather API.
 4. Visit: `http://localhost:8080/MyWeatherApp/`
 
 ## 📦 Folder Structure
-MyWeatherApp/
-│
-├── src/main/java/myPackage/MyServlet.java
-├── src/main/webapp/
-│ ├── index.html
-│ ├── index.jsp
-│ ├── style.css
-│ ├── myScript.js
-│ ├── images/weather-logo.png
-│ └── WEB-INF/
-│ ├── web.xml
-│ └── lib/gson-2.8.5.jar
+MyWeatherApp/ <br>
+│  <br>
+├── src/main/java/myPackage/MyServlet.java <br>
+├── src/main/webapp/ <br>
+│ ├── index.html <br>
+│ ├── index.jsp <br>
+│ ├── style.css <br>
+│ ├── myScript.js <br>
+│ ├── images/weather-logo.png <br>
+│ └── WEB-INF/ <br>
+│ ├── web.xml <br>
+│ └── lib/gson-2.8.5.jar <br>
 
 ## 🔗 API Used
 - [OpenWeatherMap](https://openweathermap.org/api)
